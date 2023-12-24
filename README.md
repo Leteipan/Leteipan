@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <h1 align="center">Hi 👋, I'm Denis Leteipan</h1>
-<h3 align="center">A passionate Full-stack developer and Information technology Specialist, Driven with the purpose of integrating Technology to Businesses and Brands that Transform and Impact lives.</h3>
+<h3 align="center">A passionate Full-stack developer and Information technology Specialist, Integrating Technology to Businesses and Brands that Transform and Impact lives.</h3>
 <img src="https://technostupid.com/frontend/images/95116-coder.gif" alt="coding" align="right"  width="400"/>
 
 
