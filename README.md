@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Sharpening my Skills in Mobile applications development**
 
-- 👨‍💻 All of my projects are available at [https://leteipan.github.io/Portfolio-website-/](https://leteipan.github.io/Portfolio-website-/)
+- 👨‍💻 All of my projects are available at [https://leteipan.github.io/Portfolio-website-/](https://leteipan.github.io/Portfolio-website-/#portfolio)
 
 - 📫 How to reach me **Denisleteipan45@gmail.com**
 
