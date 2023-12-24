@@ -3,7 +3,6 @@
 <img src="https://technostupid.com/frontend/images/95116-coder.gif" alt="coding" align="right"  width="400"/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leteipan" alt="leteipan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/denisleteipan" target="blank"><img src="https://img.shields.io/twitter/follow/denisleteipan?logo=twitter&style=for-the-badge" alt="denisleteipan" /></a> </p>
 
