@@ -10,11 +10,12 @@
 
 - 🔭 I’m currently working on **Sharpening my Skills in Mobile applications development**
 
-- 👨‍💻 All of my projects are available at [https://leteipan.github.io/Portfolio-website-/](https://leteipan.github.io/Portfolio-website-/#portfolio)
+ - 💻 All of the client work and projects I have done are available at [https://leteipan.github.io/Portfolio-website-/](https://leteipan.github.io/Portfolio-website-/#portfolio)
 
-- 📫 How to reach me **Denisleteipan45@gmail.com**
+- 📩 Contact Me **Denisleteipan45@gmail.com**
 
-- 📄 Know about my experiences [https://leteipan.github.io/Portfolio-website-/#cv](https://leteipan.github.io/Portfolio-website-/#cv)
+- 📄 Know More of My Skills and Experiences
+ [https://leteipan.github.io/Portfolio-website-/#cv](https://leteipan.github.io/Portfolio-website-/#cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
