@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/denisleteipan" target="blank"><img src="https://img.shields.io/twitter/follow/denisleteipan?logo=twitter&style=for-the-badge" alt="denisleteipan" /></a> </p>
 
-- 🔭 I’m currently working on **Sharpening my Skills in Mobile applications development**
+- 👨‍💻 I'm constantly working on **Sharpening my Skills in Mobile applications development**
 
  - 💻 All of the client work and projects I have done are available at [https://leteipan.github.io/Portfolio-website-/](https://leteipan.github.io/Portfolio-website-/#portfolio)
 
