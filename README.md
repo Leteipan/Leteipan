@@ -1,5 +1,5 @@
 <h1 align="center"> Jambo?, Welcome to Denis Leteipan Code Playground! 🤾‍♀️</h1>
-<h4 align="center">A passionate Full-stack developer and Information technology Specialist, Integrating Up to date Technologies for Businesses and Brands,  Inclined in Transforming and Impact lives.</h4>
+<h4 align="center">A passionate Full-stack developer and Information technology architect, Integrating Up to date Technologies for Businesses and Brands,  Inclined in Transforming and Impact lives.</h4>
 <img src="https://technostupid.com/frontend/images/95116-coder.gif" alt="coding" align="right"  width="400" />
 
 
