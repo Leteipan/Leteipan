@@ -12,7 +12,8 @@
 
  - 💻 All of the client work and projects I have done are available at [https://leteipan.github.io/Portfolio-website-/](https://leteipan.github.io/Portfolio-website-/#portfolio)
 
-- 📩 Contact Me **Denisleteipan45@gmail.com**
+- 📩 Contact Me
+- **Denisleteipan45@gmail.com**
 
 - 📄 Know More of My Skills and Experiences
  [https://leteipan.github.io/Portfolio-website-/#cv](https://leteipan.github.io/Portfolio-website-/#cv)
