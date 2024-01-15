@@ -1,4 +1,4 @@
-<h1 align="center"> Jambo?,I Appreciate You Checking this space!👊</h1>
+<h1 align="center"> Jambo?,Karibu to My Playground!👊</h1>
 <h4 align="center">A passionate Full-stack developer and Information technology architect, Integrating Up to date Technologies for Businesses and Brands,  Inclined in Transforming and Impact lives.</h4>
 <img src="https://technostupid.com/frontend/images/95116-coder.gif" alt="coding" align="right"  width="400" />
 
