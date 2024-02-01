@@ -10,13 +10,13 @@
 
 - 👨‍💻 I'm constantly working on **Sharpening my Skills in Mobile applications development**
 
- - 💻 All of the client work and projects I have done are available at [https://leteipan.github.io/Portfolio-website-/](https://leteipan.github.io/Portfolio-website-/#portfolio)
+ - 💻 All of the client work and projects I have done are available at [https://Denisleteipan.com](https://leteipan.vercel.app)
 
 - 📩 Contact Me
  **Denisleteipan45@gmail.com**
 
 - 📄 Know More of My Skills and Experiences
- [https://leteipan.github.io/Portfolio-website-/#cv](https://leteipan.github.io/Portfolio-website-/#cv)
+ [https://Denisleteipan.com](https://leteipan.vercel.app)
 
 <h3 align="left">let's Connect:</h3>
 <p align="left">
