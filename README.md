@@ -1,5 +1,5 @@
 <h1 align="center"> Jambo?,Karibu to My Playground!👊</h1>
-<h4 align="center">A passionate Full-stack developer and Information technology architect, Integrating Up to date Technologies for Businesses and Brands,  Inclined in Transforming and Impact lives.</h4>
+<h4 align="center">Hi there! I'm a software engineer with a mission to impact humanity through technology. I build clean, scalable, and innovative solutions that solve real-world challenges, always with a focus on positive social change. Passionate about full stack development, I strive to create code that not only drives business success but also contributes to a better future for our communities. Let's collaborate and use technology to make a meaningful difference.</h4>
 <img src="https://technostupid.com/frontend/images/95116-coder.gif" alt="coding" align="right"  width="400" />
 
 
